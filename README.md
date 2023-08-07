@@ -5,5 +5,5 @@ Projeto para exemplificar o uso do input text utilizando HTML.
 
 [<img src="./resultado.jpg" alt="input text usando HTML">](https://priscila199.github.io/input-text/)
 
-## Tecnologias Utilizadas
+## Tecnologia Utilizada
 - HTML
